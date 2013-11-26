@@ -9,6 +9,9 @@ namespace Skajdo;
  * Oryginal source:
  * http://introcs.cs.princeton.edu/java/51data/CRC16CCITT.java.html
  * CRC16-CCIT for 123456789 = 29b1
+ *
+ * Online calculator for testing:
+ * http://zorc.breitbandkatze.de/crc.html
  */
 class Crc16CCIT
 {
