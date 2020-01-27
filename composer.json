@@ -1,5 +1,5 @@
 {
-    "name": "skajdo/crc16-ccit",
+    "name": "moovspot/crc16-ccit",
     "description": "Calculate CRC16-CCIT checksum",
     "license": "MIT",
     "authors": [
