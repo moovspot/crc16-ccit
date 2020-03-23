@@ -22,7 +22,7 @@ class Crc16CCIT
     public static function calculate($data)
     {
 
-        $crc = 0xFFFF;
+        $crc = 0;
         $polynomial = 0x1021;
 
         foreach (str_split($data, 1) as $char) {
